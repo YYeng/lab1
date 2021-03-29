@@ -1,4 +1,4 @@
-# absi
+# LAB 1 FLUTTER PROJECT
 
 A new Flutter project.
 

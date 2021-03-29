@@ -21,7 +21,7 @@ class AbsiApp extends State<MyApp> {
   final TextEditingController wcEditingController = new TextEditingController();
 
   double resultABSI = 0.0;
-  double resultABSIz = 0.0;
+ 
   int _value = 1;
 
   @override
